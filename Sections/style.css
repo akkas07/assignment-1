@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  background: #ffffff;
+  color: #001931;
+}
+
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.menu {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+.nav-btn {
+  background: #30B868;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
