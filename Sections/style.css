@@ -28,3 +28,19 @@ body {
   border: none;
   cursor: pointer;
 }
+
+/* Banner */
+.banner {
+  background: url('/image/hero-bg.png') no-repeat center center/cover;
+  padding: 100px 20px;
+  text-align: center;
+  color: white;
+}
+.banner-buttons button {
+  margin: 10px;
+  padding: 10px 20px;
+  background: #30B868;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
